@@ -3,3 +3,4 @@ master small private d RSA with moduli N=p^r*q^s,that d < 1-(3*r+s)/(r+s)^2 - ep
 use the polynomials
 ![image](https://github.com/zarismine/small-private-d-RSA/assets/90366333/eb7a9126-8ec2-48e2-9c63-de4c3d475363)
 
+paper_link: https://www.degruyter.com/document/doi/10.1515/jmc-2016-0025/html
